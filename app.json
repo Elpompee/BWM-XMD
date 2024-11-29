@@ -30,7 +30,7 @@
     {
       "description":"Enter yes for your bot to auto react status",
       "value":"yes",
-      "required":false
+      "required":true
     },
 "ANTICALL":
     {
@@ -78,8 +78,8 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
-      "required":false
+      "value":"POMPEE",
+      "required":true
 
     } ,
      "BOT_MENU_LINKS" : {
